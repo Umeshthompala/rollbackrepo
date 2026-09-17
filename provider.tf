@@ -1,0 +1,3 @@
+provider "azuerm" {
+  features {}
+}
